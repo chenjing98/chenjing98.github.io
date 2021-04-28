@@ -8,7 +8,7 @@ Mail: j-chen20 [at] mails [dot] tsinghua [dot] edu [dot] cn
 ## Publication
 - **Jing Chen**, Zili Meng, Yaning Guo, Mingwei Xu, Hongxin Hu. HierTopo: Towards High-Performance and Efficient Topology Optimization for Dynamic Networks. Accepted by IEEE/ACM International Symposium on Quality of Service (IWQoS) 2021.
 
-- **Jing Chen**, Zili Meng, Mingwei Xu. Always Heading for the Peak: Learning to Route with Domain Knowledge. In IEEE Infocom 2020 (poster). [Paper](./files/Altitude_Infocom20Poster_final.pdf)\|[Slides](./files/altitude-infocom20poster-slides.pptx)
+- **Jing Chen**, Zili Meng, Mingwei Xu. Always Heading for the Peak: Learning to Route with Domain Knowledge. In IEEE Infocom 2020 (poster). [Paper](./files/altitude-infocom20poster-final.pdf)\|[Slides](./files/altitude-infocom20poster-slides.pptx)
 
 - Zili Meng, **Jing Chen**, Yaning Guo, Chen Sun, Hongxin Hu, Mingwei Xu. PiTree: Practical Implementation of ABR Algorithms Using Decision Trees. ACM Multimedia 2019 (CCF-A/TH-CPL-A,Oral Paper:88/936=9.4%).
 
