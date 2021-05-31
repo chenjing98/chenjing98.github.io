@@ -6,6 +6,10 @@ Mail: j-chen20 [at] mails [dot] tsinghua [dot] edu [dot] cn
 - *Sep. 2020 - now*, **M.S. student**, Inst. for Network Sciences and Cyberspace, Tsinghua University.
 
 ## Publication
+- **Jing Chen**, Zili Meng, Mingwei Xu. Physical-Layer Informed Multipath Redundancy Optimization for Mobile Real-Time Communication. Accepted by Asia-Pacific Workshop on Networking (APNet) (poster) 2021.
+
+- Yaning Guo, **Jing Chen**, Zili Meng, Mingwei Xu. Towards Optimization for Large-scale Earth Observation Missions from a Global Perspective. Accepted by Asia-Pacific Workshop on Networking (APNet) (poster) 2021.
+
 - **Jing Chen**, Zili Meng, Yaning Guo, Mingwei Xu, Hongxin Hu. HierTopo: Towards High-Performance and Efficient Topology Optimization for Dynamic Networks. Accepted by IEEE/ACM International Symposium on Quality of Service (IWQoS) 2021. [Paper](./files/hiertopo_iwqos2021.pdf)
 
 - Zili Meng, Yaning Guo, Yixin Shen, **Jing Chen**, Chao Zhou, Minhu Wang, Jia Zhang, Mingwei Xu, Chen Sun, Hongxin Hu. Practically Deploying Heavyweight Adaptive Bitrate Algorithms With Teacher-Student Learning. In IEEE/ACM Transactions on Networking (TON) 2021 (CCF-A/TH-CPL-A, SCI Impact Factor 3.315, top journal in Computer Networks). [Paper](./files/pitree-ton21.pdf)
