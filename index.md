@@ -6,11 +6,13 @@ Mail: j-chen20 [at] mails [dot] tsinghua [dot] edu [dot] cn
 - *Sep. 2020 - now*, **M.S. student**, Inst. for Network Sciences and Cyberspace, Tsinghua University.
 
 ## Publications
-- **Jing Chen**, Zili Meng, Mingwei Xu. Physical-Layer Informed Multipath Redundancy Optimization for Mobile Real-Time Communication. Accepted by Asia-Pacific Workshop on Networking (APNet) (poster) 2021.
-
-- Yaning Guo, **Jing Chen**, Zili Meng, Mingwei Xu. Towards Optimization for Large-scale Earth Observation Missions from a Global Perspective. Accepted by Asia-Pacific Workshop on Networking (APNet) (poster) 2021.
+- **Jing Chen**, Zili Meng, Mingwei Xu. Physical-Layer Informed Multipath Redundancy Optimization for Mobile Real-Time Communication. In the 5th Asia-Pacific Workshop on Networking (APNet) (poster) 2021. [Paper](./files/Phyro-apnet21poster-final.pdf)\|[Poster](./files/phyro-poster.pdf)
 
 - **Jing Chen**, Zili Meng, Yaning Guo, Mingwei Xu, Hongxin Hu. HierTopo: Towards High-Performance and Efficient Topology Optimization for Dynamic Networks. Accepted by IEEE/ACM International Symposium on Quality of Service (IWQoS) 2021. [Paper](./files/hiertopo_iwqos2021.pdf)\|[Slides](./files/hiertopo-iwqos21-slides.pdf)
+
+- Yaning Guo, **Jing Chen**, Zili Meng, Mingwei Xu. Towards Optimization for Large-scale Earth Observation Missions from a Global Perspective. In the 5th Asia-Pacific Workshop on Networking (APNet) (poster) 2021. [Paper](./files/global-optimization-apnet21poster-final.pdf)\|[Poster](./files/global-optimization-poster.pdf)
+
+- Yixin Shen, Zili Meng, **Jing Chen**, Mingwei Xu. Quantifying the transient performance of congestion control algorithms. Accepted by SIGCOMM Poster and Demos 2021.
 
 - Zili Meng, Yaning Guo, Yixin Shen, **Jing Chen**, Chao Zhou, Minhu Wang, Jia Zhang, Mingwei Xu, Chen Sun, Hongxin Hu. Practically Deploying Heavyweight Adaptive Bitrate Algorithms With Teacher-Student Learning. In IEEE/ACM Transactions on Networking (TON) 2021 (CCF-A/TH-CPL-A, SCI Impact Factor 3.315, top journal in Computer Networks). [Paper](./files/pitree-ton21.pdf)
 
