@@ -240,13 +240,13 @@ body {
   color: #494e52;
   font-size: 1.8em;
   line-height: 1.5;
-  font-family: "Georgia", Times New Roman, FangSong, STFangsong, sans-serif;
+  font-family: "Play", "Adobe Casion", "Georgia", Times New Roman, FangSong, STFangsong, sans-serif;
   scroll-behavior: smooth;
 }
 a,
 span,
 .btn {
-  font-family: "Georgia", Times New Roman, FangSong, STFangsong, sans-serif;
+  font-family: "Play", "Adobe Casion", "Georgia", Times New Roman, FangSong, STFangsong, sans-serif;
 }
 img {
   max-width: 100%;
@@ -453,10 +453,10 @@ blockquote p {
   font-size: 3rem;
 }
 .page article h2 {
-  font-size: 2.8rem;
+  font-size: 2.7rem;
 }
 .page article h3 {
-  font-size: 2.6rem;
+  font-size: 2.4rem;
 }
 .page article p,
 .page article li {
@@ -486,7 +486,7 @@ blockquote p {
   text-align: right;
 }
 .page article code {
-  font-family: "Georgia", Times New Roman, FangSong, STFangsong, sans-serif;
+  font-family: "Play", "Adobe Casion", "Georgia", Times New Roman, FangSong, STFangsong, sans-serif;
   padding: 0.2rem 0.3rem;
   background: rgba(27,31,35,0.05);
   word-wrap: break-word;
@@ -534,8 +534,8 @@ blockquote p {
 }
 .author-avatar img {
   width: 100%;
-  max-width: 110px;
-  border-radius: 50%;
+  max-width: 130px;
+  border-radius: 20%;
 }
 .author-discrip {
   display: table-cell;
